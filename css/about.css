@@ -1,0 +1,43 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#container
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: aqua;
+    box-sizing: border-box;
+    margin-top: 100px;
+  
+}
+#about
+{
+    height: 600px;
+    display: flex;
+    
+}
+#about h1
+{
+    color: orangered;
+    font-size: 40px;
+    padding-top: 15%;
+    padding-left: 10%;
+}
+#about #img
+{
+    width: 500px;
+    height: 500px;
+    background-image: url(../image/about-img.png);
+    background-size: cover;
+    margin-top: 90px;
+    margin-left: 450px;
+
+}
+#about p
+{
+    pad
+}
